@@ -2,7 +2,7 @@
 
 ✏️Details📏
 
-🔸Name: Electric Cars and Aerospace Materials
+🔸Name: Introduction To The Structure Of Materials
 
 🔹Language: Portuguese
 
