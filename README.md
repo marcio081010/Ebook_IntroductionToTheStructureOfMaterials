@@ -12,7 +12,7 @@
 
 🔸classification: ⭐⭐⭐⭐⭐
 
-📚Synopsis📐 A brief knowledge about electric cars and aerospace materials
+📚Synopsis📐 the book aims to present concepts and definitions about the structure of materials
 
 ⚠️Do not use my book for purposes🚧 ❌Commercial
 
